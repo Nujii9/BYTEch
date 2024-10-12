@@ -40,7 +40,7 @@
             <div class="content">
                 <img src="camera.png">
                 <h3>Cameras</h3>
-                <p>Capture stunning photos and videos with high-performance cameras that bring your creativity to life. Whether you're a professional or a hobbyist, our cameras deliver precision and clarity for every shot.</p>
+                <p>Capture stunning photos and videos with high-performance cameras that bring your creativity to life. Whether you're a professional or a hobbyist, our cameras deliver precision and clarity for every ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤshot.ㅤㅤㅤㅤㅤㅤㅤㅤㅤ </p>
                 <h6>From ₱10,000.00</h6>
                 <ul>
                   <li><i class="fa fa-star checked"></i></li>
@@ -56,7 +56,7 @@
             <div class="content">
                 <img src="Smartwatch.png">
                 <h3>Smartwatch</h3>
-                <p>Keep track of your fitness goals, notifications, and more with our sleek, multifunctional smartwatches. Experience the perfect blend of style and technology, all on your wrist.</p>
+                <p>Keep track of your fitness goals, notifications, and more with our sleek, multifunctional smartwatches. Experience the perfect blend of style and technology, ㅤㅤㅤㅤㅤㅤall on your wrist.ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ </p>
                 <h6>From ₱1,000.00</h6>
                 <ul>
                   <li><i class="fa fa-star checked"></i></li>
@@ -72,7 +72,7 @@
             <div class="content">
                 <img src="earbuds.png">
                 <h3>Earbuds</h3>
-                <p>Immerse yourself in crystal-clear sound with our high-quality, wireless earbuds. Enjoy a comfortable, secure fit and long-lasting battery life for music on the go.</p>
+                <p>Immerse yourself in crystal-clear sound with our high-quality, wireless earbuds. Enjoy a comfortable, secure fit and long-lasting battery life for music on the go.ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</p>
                 <h6>From ₱500.00</h6>
                 <ul>
                   <li><i class="fa fa-star checked"></i></li>
@@ -83,9 +83,6 @@
                 </ul>
                   <button class="buy-4">Buy Now</button>
                 </div>
-
-
-
                 
             </div>
 
